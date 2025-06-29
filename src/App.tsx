@@ -1,8 +1,10 @@
+import MultiSelect from "./components/MultiSelect/MultiSelect"
+
 function App() {
 
   return (
     <>
-      Hello world!
+      <MultiSelect />
     </>
   )
 }
